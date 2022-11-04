@@ -1,0 +1,68 @@
+.wraper{
+    height: 500px;
+    width: 800px;
+    margin: 0 auto;
+    background: linear-gradient(to bottom right, #cfff99,#25e7d8);
+    border:1px solid black;
+}
+#userName{
+    width:300px;
+    height:100px;
+    text-align: center;
+    margin-top:20px;
+    font-size:40px;
+}
+#userWin{
+    width:100px;
+    height:100px;
+    margin-left:100px;
+    margin-top:10px;
+    text-align: center;
+    font-size:40px;
+}
+#userNumber{
+    width:200px;
+    height:200px;
+    margin-left:50px;
+    margin-top:12px;
+    text-align: center;
+    font-size:40px;
+}
+#generate{
+    width:200px;
+    height:100px;
+    position:absolute;
+    left:42%;
+    bottom:65%;
+    font-size:30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius:40% ;
+    background-color: rgba(0, 255, 200, 0.705);
+}
+#computerName{
+    width:300px;
+    height:100px;
+    position:absolute;
+    left:55%;
+    bottom:74%;
+    font-size:40px;
+    text-align: center;
+}
+#computerWin{
+    width:100px;
+    height:100px;
+    position:absolute;
+    left:63%;
+    bottom:63%;
+    text-align: center;
+    font-size:40px;
+}
+#computerNumber{
+    width:200px;
+    height:200px;
+    position:absolute;
+    left:60%;
+    bottom:30%;
+    text-align: center;
+    font-size:40px;
+}
